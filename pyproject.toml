@@ -13,6 +13,7 @@ supabase = "^2.8.1"
 psycopg2 = "^2.9.9"
 asyncpg = "^0.29.0"
 sqlalchemy = "^2.0.35"
+asyncio = "^3.4.3"
 
 
 [build-system]
